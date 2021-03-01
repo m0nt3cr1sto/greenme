@@ -1,0 +1,41 @@
+.centrar{
+    text-align: center;
+    align-self: center;
+
+}
+
+.imgNavVar{
+    width: 200px;
+    height: 60px;
+    margin-right: auto;
+    cursor: pointer;
+}
+
+.fas{
+    cursor: pointer;
+    color: blue;
+}
+
+.icono{
+    font-size:xx-large;
+    color: orange;
+    padding: 20px;
+}
+
+.col2{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+}
+
+input, select{
+    width: 200px;
+}
+
+.margenes{
+    margin: 10px;
+    width: 550px;
+    height: 50px;
+    align-self:auto;
+}
